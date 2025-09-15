@@ -75,7 +75,7 @@ def main():
     st.write("Ask me anything based on the knowledge in my text file!")
 
     # Load your chosen text file
-    text_file =(r'C:\Users\LE\OneDrive\Desktop\chatbot\pg69957-h.zip')
+    text_file =(r'C:\Users\LE\OneDrive\Desktop\chatbot\finding touth .txt')
     sentences, cleaned_sentences = preprocess(text_file)
 
     # User input
